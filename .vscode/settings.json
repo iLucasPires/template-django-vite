@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "**/.vscode": true,
+    "**/migrations": true,
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/*.pyo": true
+  }
+}
